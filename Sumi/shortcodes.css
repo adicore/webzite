@@ -41,7 +41,7 @@
 
 .flat-row.flat-gallery {
     padding-top: 98px;
-    background-image: url(../images/portfolio/bg.png);
+    background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582461595/gambar/bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
     padding-bottom: 100px;
@@ -409,7 +409,7 @@
 }
 
 .flat-tabs .bg-tabs {
-    background-image: url(../images/tabmenu/1.jpg);
+    background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582461724/gambar/1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 75px;
@@ -842,7 +842,7 @@
 .owl-carousel-services.owl-theme .owl-controls .owl-nav div.owl-next {
     background-color: transparent;
     top: 33%;
-    background-image: url(../images/right_arrow.png);
+    background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582461624/gambar/right_arrow.png);
     background-size: contain;
     background-repeat: no-repeat;
     right: 0;
@@ -851,7 +851,7 @@
 .owl-carousel-services.owl-theme .owl-controls .owl-nav div.owl-prev {
     background-color: transparent;
     top: 33%;
-    background-image: url(../images/left_arrow.png);
+    background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582461644/gambar/left_arrow.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -1047,7 +1047,7 @@ button:before {
 /*404
 ------------------------------------------------*/
 .bg-404 {
-    background-image: url(../images/bg/1.jpg);
+    background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582461898/assets/1.jpg);
 }
 
 /*Flat Our Story
