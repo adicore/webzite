@@ -1794,7 +1794,7 @@ input[type="color"],
 	background-size: cover;
 }
 
-.parallax1 { background-image: url(https://res.cloudinary.com/webzite/image/upload/v1582462376/Sumi/parallax/1.jpg); }
+.parallax1 { background-image: url(https://cdn.statically.io/gh/adicore/webzite/14f479cf/Sumi/img/parallax1.jpg); }
 
 .parallax2 { background-image: url(../images/parallax/bg-parallax2.jpg); }
 
